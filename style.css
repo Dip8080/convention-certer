@@ -2,3 +2,7 @@
     width: 1440px;
     height: 584px;
 }
+
+.button-radius{
+    border-radius: 20px;
+}
